@@ -1,0 +1,9 @@
+* {
+  font-family: "Times New Roman", serif;
+}
+
+.header {
+  font-size: 64px;
+  font-weight: bold;
+  color: rgb(,200,255);
+}
